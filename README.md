@@ -2,7 +2,8 @@
 <p align="center">
   <samp>
     Hi, my name is Patrick, i'm 28 years old, christian, husband and full stack developer.
-  </samp>
+  </samp> <br><br>
+  <img src="https://img.shields.io/badge/IF%20NOT%20NOW-WHEN%3F-red?style=for-the-badge" /></a>
 </p>
 
 <hr>
