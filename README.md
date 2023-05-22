@@ -32,4 +32,4 @@
 
 <hr>
 
-<h3 align="center"> Check Out My Repos ⬇️</h2>
+<h3 align="center"> Check out my repos ⬇️</h2>
