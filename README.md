@@ -4,7 +4,6 @@
     Hi, my name is Patrick, I'm 28 years old, christian, husband and full stack developer.
     I have a very broad professional background and can navigate many areas of knowledge, so don't be surprised if I have an opinion on everything.
   </samp> <br><br>
-  <img src="https://img.shields.io/badge/IF%20NOT%20US-WHO%3F-red?style=for-the-badge" /></a><br>
   <img src="https://img.shields.io/badge/IF%20NOT%20NOW-WHEN%3F-red?style=for-the-badge" /></a>
 </p>
 
