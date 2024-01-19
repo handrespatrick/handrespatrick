@@ -9,21 +9,113 @@
 
 <hr>
 
-<h3 align="center">Tools 🧰</h2>
-<p align="center">
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-  <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-</p>
+<h3 align="center">Favorite Technologies 🧰</h3> 
+<p align="center">Tools, languages ​​and other things that I like and feel comfortable working with</p>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a>
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript"/>
+      </a>
+      <br>TypeScript
+    </td>
+   <td align="center" width="96">
+      <a>
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/>
+      </a>
+      <br>JavaScript
+    </td>
+   <td align="center" width="96">
+      <a>
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="NodeJS"/>
+      </a>
+      <br>NodeJS
+    </td>
+   <td align="center" width="96">
+      <a>
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="48" alt="NestJS"/>
+      </a>
+      <br>NestJS
+    </td>
+   <td align="center" width="96">
+      <a>
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React"/>
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a>
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="48" height="48" alt="Jest"/>
+      </a>
+      <br>Jest
+    </td>
+    <td align="center" width="96">
+      <a>
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48" alt="AWS"/>
+      </a>
+      <br>AWS
+    </td>
+   <td align="center" width="96">
+      <a>
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub"/>
+      </a>
+      <br>GitHub
+    </td>
+   <td align="center" width="96">
+      <a>
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="48" height="48" alt="Slack"/>
+      </a>
+      <br>Slack
+    </td>
+    <td align="center" width="96">
+      <a>
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="48" height="48" alt="Jira"/>
+      </a>
+      <br>Jira
+    </td>
+  </tr>
+</table>
+
+<h3 align="center">New Technologies 🧠</h3> 
+<p align="center">Tools, languages ​​and other things I'm currently learning</p>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a>
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
+      </a>
+      <br>Python
+    </td>
+   <td align="center" width="96">
+      <a>
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="GCP"/>
+      </a>
+      <br>GCP
+    </td>
+    <td align="center" width="96">
+      <a>
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="NextJS"/>
+      </a>
+      <br>NextJS
+    </td>
+    <td align="center" width="96">
+      <a>
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker"/>
+      </a>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <a>
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="Kubernetes"/>
+      </a>
+      <br>Kubernetes
+    </td>
+  </tr>
+</table>
 
 <hr>
 
-<h3 align="center">Reach me on 🔍</h2>
+<h3 align="center">Where you can find me 🔍</h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/patrickhandres/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a target="_blank"href="http://www.instagram.com/patrickhandres/"><img src="https://img.shields.io/badge/instagram%20-%23D62976.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
