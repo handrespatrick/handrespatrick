@@ -33,7 +33,7 @@
     </td>
    <td align="center" width="96">
       <a>
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="48" alt="NestJS"/>
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="48" alt="NestJS"/>
       </a>
       <br>NestJS
     </td>
@@ -51,7 +51,7 @@
     </td>
     <td align="center" width="96">
       <a>
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48" alt="AWS"/>
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="48" height="48" alt="AWS"/>
       </a>
       <br>AWS
     </td>
